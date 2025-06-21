@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px 0;
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#sitemap-content {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #0056b3;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    color: #777;
+    font-size: 0.9em;
+}
+
+/* Styles for the ?m=1 version */
+body.mobile-version {
+    background-color: #e0f7fa; /* Lighter blue for mobile */
+}
+
+body.mobile-version header {
+    background-color: #00796b; /* Different header color */
+}
+
+body.mobile-version h1, body.mobile-version h2 {
+    color: #004d40; /* Darker green for mobile headings */
+}
+
+body.mobile-version #mobile-message {
+    background-color: #c8e6c9; /* Light green background for message */
+    border-left: 5px solid #4caf50;
+    padding: 15px;
+    margin: 20px;
+    color: #388e3c;
+}
+
+/* Hide standard message when mobile version is active */
+body.mobile-version #standard-message {
+    display: none;
+}
