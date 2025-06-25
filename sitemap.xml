@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Landing Page -->
+  <url>
+    <loc>https://sundalora.github.io/sundalora/index.html</loc>
+    <lastmod>2025-06-25</lastmod> <!-- Update this date upon significant changes -->
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Content Archive Page (Central hub for all content) -->
+  <url>
+    <loc>https://sundalora.github.io/sundalora/content-archive.html</loc>
+    <lastmod>2025-06-25</lastmod> <!-- Update this date when new content is added or sorted -->
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://sundalora.github.io/sundalora/about.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://sundalora.github.io/sundalora/contact.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Individual Content Pages (Based on the list you provided) -->
+  <url>
+    <loc>https://sundalora.github.io/sundalora/content/georgia-okeeffe-city-night-painting.html</loc>
+    <lastmod>2025-06-25</lastmod> <!-- Update to the last modification date of the specific content file -->
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sundalora.github.io/sundalora/content/tabellaria-identification-guide.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sundalora.github.io/sundalora/content/top-grass-types-home-lawns.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sundalora.github.io/sundalora/content/exploring-parramatta-river-boating.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sundalora.github.io/sundalora/content/numpy-meshgrid-quiver-imshow-frustration.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sundalora.github.io/sundalora/content/what-is-ontology-create-one.html</loc>
+    <lastmod>2025-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- IMPORTANT: Add new content pages here as you create them following the same pattern -->
+
+</urlset>
